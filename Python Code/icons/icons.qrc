@@ -1,0 +1,31 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icons8-restore-window-48.png</file>
+    <file>icons8-no-camera-48.png</file>
+    <file>icons8-1st-96.png</file>
+    <file>icons8-circled-2-96.png</file>
+    <file>icons8-circled-3-48.png</file>
+    <file>icons8-circled-4-48.png</file>
+    <file>icons8-done-48.png</file>
+    <file>icons8-done-96.png</file>
+    <file>icons8-cam-91.png</file>
+    <file>icons8-search-in-list-48.png</file>
+    <file>icons8-search-in-list-96.png</file>
+    <file>icons8-rotate-left-48.png</file>
+    <file>icons8-rotate-left-96.png</file>
+    <file>icons8-pause-48.png</file>
+    <file>icons8-pause-96.png</file>
+    <file>icons8-play-48.png</file>
+    <file>icons8-play-96.png</file>
+    <file>Alecive-Flatwoken-Apps-Rotate-Right.ico</file>
+    <file>Alecive-Flatwoken-Apps-Rotate-Right.svg</file>
+    <file>blueRotateicon.png</file>
+    <file>cam.png</file>
+    <file>exit.png</file>
+    <file>icons8-rotate-64.png</file>
+    <file>icons8-rotate-page-clockwise-100.png</file>
+    <file>Oxygen-Icons.org-Oxygen-Actions-transform-rotate.ico</file>
+    <file>rotate.png</file>
+    <file>StartStopicon.png</file>
+  </qresource>
+</RCC>

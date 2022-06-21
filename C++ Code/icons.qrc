@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icon/exit.png</file>
+        <file>icon/icons8-1st-48.png</file>
+        <file>icon/icons8-circled-2-48.png</file>
+        <file>icon/icons8-circled-3-48.png</file>
+        <file>icon/icons8-no-camera-48.png</file>
+        <file>icon/icons8-pause-48.png</file>
+        <file>icon/icons8-play-48.png</file>
+        <file>icon/icons8-restore-window-48.png</file>
+        <file>icon/icons8-search-in-list-48.png</file>
+    </qresource>
+    <qresource prefix="/icon" lang="a"/>
+</RCC>
