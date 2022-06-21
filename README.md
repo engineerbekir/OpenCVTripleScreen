@@ -1,2 +1,2 @@
 # OpenCVTripleScreen
-<p>img align = "right" src = "https://github.com/engineerbekir/OpenCVTripleScreen/blob/master/gifvideo.gif" width = 500 height = "320" /></p>
+<img  src = "https://github.com/engineerbekir/OpenCVTripleScreen/blob/master/gifvideo.gif" width = "256" />
