@@ -1,2 +1,2 @@
 # OpenCVTripleScreen
-![Uploading gifvideo.gif…]()
+<p>img align = "right" src = "https://github.com/engineerbekir/OpenCVTripleScreen/blob/master/gifvideo.gif" width = 500 height = "320" /></p>
